@@ -120,6 +120,6 @@ The dashboard automatically:
 
 ## 👤 Author
 
-Made by: Pratham Singh
+Made by: Vansh Singh
 College: Vivekananda Institute of Professional Studies, Delhi
 Branch: B.Tech AI & Data Science
